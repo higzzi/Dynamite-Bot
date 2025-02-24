@@ -25,8 +25,8 @@ This is a Discord bot for a bomb game, where players can join and answer questio
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/higzzi/dynamite-game-bot.git
-   cd dynamite-game-bot
+   git clone https://github.com/higzzi/Dynamite-Bot.git
+   cd Dynamite-Bot
    ```
 
 2. **Install the dependencies**:
